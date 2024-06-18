@@ -13,6 +13,8 @@ Mentor:  Muzammil
 OVERVIEW OF THE PROJECT:
 
 Project:Python Programming
+![Screenshot 2024-06-18 204559](https://github.com/Kalyanbandaru69/task1_simple_calculator/assets/173155055/db65f556-521e-4ab0-a94d-29c5c0f6e27e)
+
 
 Objective:
 1.To enable basic arithmetic operations: addition, subtraction, multiplication, and division.
